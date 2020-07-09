@@ -1,2 +1,2 @@
 # teachable-machine
-Simple classification website using google teachable machine 
+Simple classification website by using google teachable machine 
